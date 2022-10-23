@@ -38,11 +38,11 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-top: 0.5em;
-    justify-content: space-between;
 }
 
 .button {
     border-radius: 50%;
+    border: none;
     color: white;
     font-size: 30px;
     text-align: center;
